@@ -1,0 +1,16 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 180 40" fill="none">
+  <!-- Stylized Geometric Graduation Cap & Spark Icon -->
+  <g transform="translate(4, 4)">
+    <path d="M16 3L30 10.5L16 18L2 10.5L16 3Z" fill="#3B82F6" />
+    <path d="M29 11.5V18C29 22 23 25 16 25C9 25 3 22 3 18V11.5" stroke="#3B82F6" stroke-width="2.2" stroke-linecap="round" stroke-linejoin="round" />
+    <!-- Tassel and Spark -->
+    <path d="M26 12.5V20.5" stroke="#60A5FA" stroke-width="2" stroke-linecap="round" />
+    <circle cx="26" cy="22" r="1.5" fill="#60A5FA" />
+    <!-- Spark Center -->
+    <path d="M16 8L17.2 11.5L20.5 12.7L17.2 13.9L16 17.4L14.8 13.9L11.5 12.7L14.8 11.5L16 8Z" fill="#FFFFFF" />
+  </g>
+  <!-- Brand Text -->
+  <text x="44" y="27" font-family="'Outfit', sans-serif" font-size="23" font-weight="700" letter-spacing="-0.5" fill="#FFFFFF">
+    Learn<tspan fill="#60A5FA">ova</tspan>
+  </text>
+</svg>
